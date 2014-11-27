@@ -1,0 +1,10 @@
+name: UItemLock
+version: 1.0
+main: me.MnMaxon.PrivateItems.Main
+commands:
+   uilock:
+    aliases: [UserItemLock]
+    description: Allows you to lock items
+   uiunlock:
+    aliases: [UserItemUnlock]
+    description: Allows you to unlock items
